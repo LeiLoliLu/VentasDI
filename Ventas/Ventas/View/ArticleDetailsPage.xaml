@@ -1,0 +1,113 @@
+﻿<Page x:Class="Ventas.View.ArticleDetailsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="ArticleDetailsPage">
+
+    <Page.Resources>
+        <DropShadowEffect x:Key="DropShadowEffect" BlurRadius="10" ShadowDepth="4" Opacity="0.5" />
+
+        <!-- Estilo para el botón de "Editar" -->
+        <Style x:Key="EditButtonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="Blue" />
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="BorderBrush" Value="Transparent" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+        </Style>
+
+        <!-- Estilo para el botón de "Eliminar" -->
+        <Style x:Key="DeleteButtonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="Red" />
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="BorderBrush" Value="Transparent" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+        </Style>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <!-- Fila para el título -->
+            <RowDefinition Height="*" />
+            <!-- Fila para el contenido principal -->
+        </Grid.RowDefinitions>
+
+        <!-- Título encima de las columnas -->
+        <TextBlock Text="Articles" TextAlignment="Center" FontSize="45" FontWeight="Bold" Grid.Row="0" Margin="0,20,0,20" />
+
+        <!-- Contenedor principal en la segunda fila -->
+        <Grid Grid.Row="1" Margin="40,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <!-- Sección de información del artículo -->
+            <StackPanel Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right" Width="500">
+                <!-- Cuadro de información para Nombre -->
+                <Border Background="White" Margin="0,0,0,10" Padding="10" Effect="{StaticResource DropShadowEffect}">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Nombre:" FontSize="18" FontWeight="Bold" VerticalAlignment="Center"/>
+                        <TextBlock Text="{Binding Nombre}" FontSize="18" Grid.Column="1" VerticalAlignment="Center"/>
+                    </Grid>
+                </Border>
+
+                <!-- Cuadro de información para Descripción -->
+                <Border Background="White" Margin="0,0,0,10" Padding="10" Effect="{StaticResource DropShadowEffect}">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Descripción:" FontSize="18" FontWeight="Bold" VerticalAlignment="Top"/>
+                        <TextBlock Text="{Binding Descripcion}" FontSize="18" Grid.Column="1" VerticalAlignment="Top" TextWrapping="Wrap" />
+                    </Grid>
+                </Border>
+
+                <!-- Cuadro de información para Precio -->
+                <Border Background="White" Margin="0,0,0,10" Padding="10" Effect="{StaticResource DropShadowEffect}">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Precio:" FontSize="18" FontWeight="Bold" VerticalAlignment="Center"/>
+                        <TextBlock Text="{Binding Precio, StringFormat=C}" FontSize="18" Grid.Column="1" VerticalAlignment="Center"/>
+                    </Grid>
+                </Border>
+
+                <!-- Cuadro de información para IVA -->
+                <Border Background="White" Margin="0,0,0,10" Padding="10" Effect="{StaticResource DropShadowEffect}">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="IVA:" FontSize="18" FontWeight="Bold" VerticalAlignment="Center"/>
+                        <TextBlock Text="{Binding Iva, StringFormat={}{0}%}" FontSize="18" Grid.Column="1" VerticalAlignment="Center"/>
+                    </Grid>
+                </Border>
+
+                <!-- Botones de Editar y Eliminar -->
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,20,0,0">
+                    <Border Background="White" Margin="0,0,375,10" Padding="10" Effect="{StaticResource DropShadowEffect}">
+                        <Button Content="Edit" Style="{StaticResource EditButtonStyle}"/>
+                    </Border>
+                    <Border Background="White" Margin="0,0,0,10" Padding="10" Effect="{StaticResource DropShadowEffect}">
+                        <Button Content="Delete" Style="{StaticResource DeleteButtonStyle}"/>
+                    </Border>
+                </StackPanel>
+            </StackPanel>
+
+            <!-- Sección de imagen del artículo -->
+            <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left">
+                <Image Source="{Binding Imagen}" Width="450" Height="450" />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|c:\\users\\dam2xx\\desktop\\di\\ventas\\ventas\\view\\articlespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\view\\articlespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\ventas\\view\\articlespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\view\\articlespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|c:\\users\\dam2xx\\desktop\\di\\ventas\\ventas\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\ventas\\view\\articledetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\view\\articledetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\ventas\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\ventas\\view\\articledetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\view\\articledetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\obj\\Debug\\View\\ArticlesPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ventas\\obj\\Debug\\View\\ArticlesPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\ventas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\ventas\\model\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\model\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\ventas\\model\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\model\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DAM2XX\\AppData\\Local\\Temp\\.vsdbgsrc\\8d2b9877d67815961d4da59952848bdeb757560693b4bf22ac5cc64f18774369\\FrameworkTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\ventas\\model\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\model\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\obj\\Debug\\View\\EmployeesPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ventas\\obj\\Debug\\View\\EmployeesPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DAM2XX\\AppData\\Local\\Temp\\.vsdbgsrc\\0f0c1a8a1eb0be9029176d315783d705bed66805ee8f7402edb54eba563c2895\\NavigationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\ventas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5182C81-BE75-464D-8614-4A04CBB6832F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DAM2XX\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ventas\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\App.xaml",
+              "RelativeDocumentMoniker": "Ventas\\App.xaml",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\App.xaml",
+              "RelativeToolTip": "Ventas\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T09:54:11.898Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ventas\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Ventas\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T10:20:01.021Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ventas\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ventas\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:20:44.573Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticlesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\View\\ArticlesPage.xaml",
+              "RelativeDocumentMoniker": "Ventas\\View\\ArticlesPage.xaml",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\View\\ArticlesPage.xaml",
+              "RelativeToolTip": "Ventas\\View\\ArticlesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T11:23:49.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticlesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\View\\ArticlesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Ventas\\View\\ArticlesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\View\\ArticlesPage.xaml.cs",
+              "RelativeToolTip": "Ventas\\View\\ArticlesPage.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwBkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:50:36.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\View\\ArticleDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Ventas\\View\\ArticleDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\View\\ArticleDetailsPage.xaml.cs",
+              "RelativeToolTip": "Ventas\\View\\ArticleDetailsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:29:02.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticleDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\View\\ArticleDetailsPage.xaml",
+              "RelativeDocumentMoniker": "Ventas\\View\\ArticleDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\View\\ArticleDetailsPage.xaml",
+              "RelativeToolTip": "Ventas\\View\\ArticleDetailsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T07:27:24.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticlesPage.g.cs",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\obj\\Debug\\View\\ArticlesPage.g.cs",
+              "RelativeDocumentMoniker": "Ventas\\obj\\Debug\\View\\ArticlesPage.g.cs",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\obj\\Debug\\View\\ArticlesPage.g.cs",
+              "RelativeToolTip": "Ventas\\obj\\Debug\\View\\ArticlesPage.g.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwDIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:51:31.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\Model\\Articulo.cs",
+              "RelativeDocumentMoniker": "Ventas\\Model\\Articulo.cs",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\Model\\Articulo.cs",
+              "RelativeToolTip": "Ventas\\Model\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:33:14.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\Model\\Empleado.cs",
+              "RelativeDocumentMoniker": "Ventas\\Model\\Empleado.cs",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\Model\\Empleado.cs",
+              "RelativeToolTip": "Ventas\\Model\\Empleado.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwEoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:27:59.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrameworkTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\AppData\\Local\\Temp\\.vsdbgsrc\\8d2b9877d67815961d4da59952848bdeb757560693b4bf22ac5cc64f18774369\\FrameworkTemplate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8d2b9877d67815961d4da59952848bdeb757560693b4bf22ac5cc64f18774369\\FrameworkTemplate.cs",
+              "ToolTip": "C:\\Users\\DAM2XX\\AppData\\Local\\Temp\\.vsdbgsrc\\8d2b9877d67815961d4da59952848bdeb757560693b4bf22ac5cc64f18774369\\FrameworkTemplate.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8d2b9877d67815961d4da59952848bdeb757560693b4bf22ac5cc64f18774369\\FrameworkTemplate.cs",
+              "ViewState": "AQIAAEYDAAAAAAAAAAAEwGEDAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:33:11.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\Model\\Venta.cs",
+              "RelativeDocumentMoniker": "Ventas\\Model\\Venta.cs",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\Model\\Venta.cs",
+              "RelativeToolTip": "Ventas\\Model\\Venta.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:36:40.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeesPage.g.cs",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\obj\\Debug\\View\\EmployeesPage.g.cs",
+              "RelativeDocumentMoniker": "Ventas\\obj\\Debug\\View\\EmployeesPage.g.cs",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\obj\\Debug\\View\\EmployeesPage.g.cs",
+              "RelativeToolTip": "Ventas\\obj\\Debug\\View\\EmployeesPage.g.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwDEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:51:35.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\AppData\\Local\\Temp\\.vsdbgsrc\\0f0c1a8a1eb0be9029176d315783d705bed66805ee8f7402edb54eba563c2895\\NavigationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0f0c1a8a1eb0be9029176d315783d705bed66805ee8f7402edb54eba563c2895\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\DAM2XX\\AppData\\Local\\Temp\\.vsdbgsrc\\0f0c1a8a1eb0be9029176d315783d705bed66805ee8f7402edb54eba563c2895\\NavigationService.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0f0c1a8a1eb0be9029176d315783d705bed66805ee8f7402edb54eba563c2895\\NavigationService.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAJcEAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:27:01.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Ventas\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\App.xaml.cs",
+              "RelativeToolTip": "Ventas\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:44:04.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\DAM2XX\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [Solo lectura]",
+              "ViewState": "AQIAABAAAAAAAAAAAAAEwCsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:40:22.102Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ventas\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DAM2XX\\Desktop\\DI\\Ventas\\Ventas\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ventas\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:24:17.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
